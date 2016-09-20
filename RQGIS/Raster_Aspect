@@ -31,8 +31,8 @@ plot(ResultASPECT)
 
 
 #Define the usual aspect color scheme using breaks to create a plot.
-###This plot is visually poor, but the primary reason to creating this plot
-###is to show the tool works.
+###This plot does not look good due to the scale.  However, the primary 
+###reason to creating this plot is to verify that the tool worked.
 
 #First define the number of colors and the color scheme you want
 col = rainbow(11)
